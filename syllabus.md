@@ -13,11 +13,11 @@ permalink: /syllabus
 
 **Office hourse:** TBA
 
-**Course website:** we will use Canvas website (Spring 2025 MATH 407-1 18698), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** we will use Canvas website (Spring 2026 MATH 280-1 18757), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course meeting information
 * Section: 01
-* Course ID: 18698
+* Course ID: 18757
 * Time: MW 1:00PM-3:00PM
 * Meeting Dates: 01/21/2026-05/14/2026
 
