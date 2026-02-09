@@ -60,7 +60,7 @@ $$p_n = \left(1+\frac{1}{2}\right)\left(1+\frac{1}{4}\right)\left(1+\frac{1}{8}\
 **Problem 3:**
 
 * (a) Use Pascal's triangle to figure out the value of $$\binom{8}{4}$$ fast by hand
-* (b) What is the coefficient of $$x^6$$ in $$(1+2x)^5$$
+* (b) What is the coefficient of $$x^3$$ in $$(1+2x)^5$$
 * (c) How many subsets are there of the set $$\{1,2,3,4,5,6,7\}$$ with $$3$$ elements?
 
 **Problem 4:**
