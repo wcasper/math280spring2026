@@ -13,7 +13,7 @@ permalink: /syllabus
 
 **Office hourse:** TBA
 
-**Course website:** we will use Canvas website (Spring 2026 MATH 280-1 18757), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math407spring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** we will use Canvas website (Spring 2026 MATH 280-1 18757), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math280spring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course meeting information
 * Section: 01
