@@ -19,7 +19,7 @@ One of the most frequently used identities in undergraduate mathematics is the *
 
 For all real numbers $$r\neq 1$$ and all integers $$n\geq 0$$,
 
-**1 + r + r^2 + r^3 + \dots + r^n = \frac{r^{n+1}-1}{r-1}.$$
+$$1 + r + r^2 + r^3 + \dots + r^n = \frac{r^{n+1}-1}{r-1}.$$
 
 * (a) Prove this identity using mathematical induction
 * (b) Find another proof which doesn't rely on induction
