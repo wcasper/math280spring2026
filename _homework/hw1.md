@@ -41,7 +41,7 @@ $$1 + r + r^2 + r^3 + \dots + r^n = \frac{r^{n+1}-1}{r-1}.$$
 
 Consider the product
 
-$$p_n = \left(1+\frac{1}{2}\right)\left(1+\frac{1}{4}\right)\left(1+\frac{1}{8}\right)\dots\left(1+\frac{1}{2^n}\right).$$
+$$p_n = \left(1+\frac{1}{2}\right)\left(1+\frac{1}{4}\right)\left(1+\frac{1}{16}\right)\dots\left(1+\frac{1}{2^{2^n}}\right).$$
 
 * (a) Work out the values of $$p_1,p_2,p_3,$$ and $$p_4$$
 * (b) Use (a) to work out a pattern and conjecture for the value of $$p_n$$ for all $$n\geq 1$$
