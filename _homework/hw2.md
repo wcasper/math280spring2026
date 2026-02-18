@@ -45,9 +45,9 @@ Use a truth table to determine whether each of the following pairs of propositio
 
 Let 
 
-$$P = \{2,3,5,7,11,13}\}$$
+$$P = \{2,3,5,7,11,13\}$$
 
-$$O = \{3,5,7,9,11,13}\}$$
+$$O = \{3,5,7,9,11,13\}$$
 
 $$F = \{1,2,3,5,8,13\}$$
 
