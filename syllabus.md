@@ -11,7 +11,7 @@ permalink: /syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** TBA
+**Office hourse:** M,W 12-1 in MH 512 and 3-4 in MH 491
 
 **Course website:** we will use Canvas website (Spring 2026 MATH 280-1 18757), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math280spring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
