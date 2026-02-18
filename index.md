@@ -18,7 +18,7 @@ title: Math 280 Strategies of Proof
 
 **Course meetings:** Monday and Wednesday 1:00PM-3:00PM
 
-**Office hours:** TBA
+**Office hourse:** M,W 12-1 in MH 512 and 3-4 in MH 491
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
