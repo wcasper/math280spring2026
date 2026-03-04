@@ -54,9 +54,9 @@ For each of the following, prove that the relation is an equivalence relation an
 
 **Problem 5:**
 
-Consider the relation $$|$$ on the set $$A = \{x\in\mathbb{Z}: x\geq 0\}$$ defined by $$a|b$$ if and only if $$a$$ divides $$b$$.
+Consider the relation $$\vert$$ on the set $$A = \{x\in\mathbb{Z}: x\geq 0\}$$ defined by $$a \vert b$$ if and only if $$a$$ divides $$b$$.
 
-* (a) prove that $$|$$ is a partial ordering on $$A$$
+* (a) prove that $$\vert$$ is a partial ordering on $$A$$
 * (b) prove that $$A$$ has an infimum and a supremum
 * (c) determine the infimum and supremum of $$\{4,6,10,14\}$$
 
