@@ -49,6 +49,7 @@ For each of the following, prove that the relation is an equivalence relation an
 
 * (a) The relation $$R$$ on $$\mathbb{R}$$ given by $$xRy$$ if and only if $$x-y\in\mathbb{Q}$$.  What are the equivalence classes $$[0]$$, $$[1]$$, and $$[\sqrt{2}]$$?
 * (b) The relation $$V$$ on $$\mathbb{R}$$ given by $$xRy$$ if and only if $$x=y$$ or $$xy=1$$.  What are the equivalence classes $$[3]$$, $$[-2/3]$$, and $$[0]$$?
+* (c) The relation $$\sim$$ on the set $$D$$ of words in the Oxford English Dictionary given by $$x\sim y$$ if and only if $$x$$ is an anagram of $$y$$.  What are the equivalence classes [caster], [spot], and [art]?
 
 
 
