@@ -17,9 +17,9 @@ If you wish to use the second method and don't own a scanner at home, you can ch
 
 Consider the indexed family of sets
 
-$$\mathcal F = \{A_n: n\in\mathbb Z\}$$
+$$\mathcal F = \{A_n: n\in\mathbb N\}$$
 
-where here for each $$n\in\mathbb{Z}$$
+indexed by the positive integers $$\mathbb N$$ where here for each $$n\in\mathbb{N}$$
 
 $$A_n = \{x\in\mathbb R: -1/n <  x\leq (n-1)/n\}$$.
 
