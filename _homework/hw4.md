@@ -13,7 +13,7 @@ Solve the following problems and type up your solutions.  Your solutions should 
 If you go with the first strategy, you may wish to check out Overleaf which is a free and intuitive website for generating $$\LaTeX$$ documents online.
 If you wish to use the second method and don't own a scanner at home, you can check out the numerous scanning apps available for smartphones.
 
-**Problem 1:**
+**Problem 1: (Bonus)**
 
 Consider the partial ordering $$\vert$$ on the set $$A = \{k\in\mathbb{Z}: k\geq 0\}$$ of positive integers.  Remember $$a\vert b$$ means $$a$$ divides $$b$$, ie. that there exists an integer $$k$$ with $$b=ka$$.
 
