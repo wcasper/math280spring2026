@@ -20,6 +20,15 @@ Consider the partial ordering $$\vert$$ on the set $$A = \{k\in\mathbb{Z}: k\geq
 * (a) Let $$x$$ and $$y$$ be integers.  Prove that the supremum of $$\{x,y\}$$ exists and is equal to the least common multiple of $$x$$ and $$y$$.
 * (b) Let $$x$$ and $$y$$ be integers.  Prove that the infimum of $$\{x,y\}$$ exists and is equal to the greatest common divisor of $$x$$ and $$y$$.
 
+Note: you may feel free to use **Euler's Theorem** on this problem, which says that if $$\gcd(a,b)=1$$ then $$a\vert n$$ and $$b\vert n$$ if and only if $$ab\vert n$$.
+
+<details>
+  <summary>Reveal hint</summary>
+
+  If $$d=\gcd(a,b)$$ then $$\gcd(a/d,b/d)=1$$.
+</details>
+
+
 **Problem 2:**
 
 For each of the following relations, determine the domain, codomain, and range.  Also explain whether the relation is or is not a function.
