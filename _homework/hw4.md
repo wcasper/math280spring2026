@@ -25,7 +25,7 @@ Note: you may feel free to use **Euler's Theorem** on this problem, which says t
 <details>
   <summary>Reveal hint</summary>
 
-  If $$d=\gcd(a,b)$$ then $$\gcd(a/d,b/d)=1$$.
+  If $$d=\gcd(a,b)$$ then $$\gcd(a,b/d)=1$$.
 </details>
 
 
