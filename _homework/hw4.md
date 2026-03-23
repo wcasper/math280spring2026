@@ -21,6 +21,7 @@ Consider the partial ordering $$\vert$$ on the set $$A = \{k\in\mathbb{Z}: k\geq
 * (b) Let $$x$$ and $$y$$ be integers.  Prove that the infimum of $$\{x,y\}$$ exists and is equal to the greatest common divisor of $$x$$ and $$y$$.
 
 Note: you may feel free to use **Euclid's Theorem** on this problem, which says that if $$\gcd(a,b)=1$$ then $$a\vert n$$ and $$b\vert n$$ if and only if $$ab\vert n$$.
+You may also feel free to use **Bezout's Lemma** that for any integers $$a$$ and $$b$$ there exist integers $$x$$ and $$y$$ with $$ax+by=\gcd(a,b)$$.
 
 <details>
   <summary>Reveal hint</summary>
