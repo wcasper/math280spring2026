@@ -73,7 +73,17 @@ $$\lvert A\cup B\rvert = \lvert A\rvert + \lvert B\rvert - \lvert A\cap B\rvert.
 Let $$A$$ be an infinite set.
 
 * (a) Prove that there is an injective function $$\mathbb N\rightarrow A$$
-* (b) Prove that
+* (b) Prove Hilbert's Grand Hotel Paradox that the sets
+
+$$\mathbb N = \{1,2,3,\dots\}$$
+
+and 
+
+$$\mathbb Z_+ = \{0,1,2,3,\dots\}$$
+
+have the same cardinality, ie. $$\mathbb Z_+\cong \mathbb N$$.
+
+* (c) Prove that
 
 $$A\approx A\cup \{x\}.$$
 
