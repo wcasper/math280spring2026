@@ -70,7 +70,10 @@ $$\lvert A\cup B\rvert = \lvert A\rvert + \lvert B\rvert - \lvert A\cap B\rvert.
 
 **Problem 5:**
 
-Prove that if $$A$$ is an infinite set and $$x\notin A$$, then
+Let $$A$$ be an infinite set.
+
+* (a) Prove that there is an injective function $$\mathbb N\rightarrow A$$
+* (b) Prove that
 
 $$A\approx A\cup \{x\}.$$
 
