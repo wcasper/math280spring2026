@@ -67,7 +67,7 @@ is a bijection.
 Use the axioms of the real numbers to prove
 
 * (a) $$0\neq 2$$, where $$2=1+1$$.
-* (b) Prove that if $$x < y$$ then $$x^2 < y^2$$.
+* (b) Prove that if $$0 < x < y$$ then $$x^2 < y^2$$.
 
 ## Problem 8
 
