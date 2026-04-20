@@ -68,7 +68,7 @@ A relation $$R$$ on $$A$$ is:
  - symmetric if $$aRb\Rightarrow bRa$$ for all $$a,b\in A$$
  - transitive if $$aRb\ \text{and}\ bRc\Rightarrow aRc$$ for all $$a,b,c\in A$$
  - an equivalence relation if it is reflexive, symmetric, and transitive.
-* (b) Let $$A$$ be the set of all positive integers, and define a relation $$R$$ on $$A$$ by $$mRn$$ if and only if $$|m-n| < 10$$.  Is $$R$$ an equivalence relation?
+* (b) Let $$A$$ be the set of all positive integers, and define a relation $$R$$ on $$A$$ by $$mRn$$ if and only if $$\lvert m-n\rvert < 10$$.  Is $$R$$ an equivalence relation?
 
 This is NOT an equivalence relation, since $$1R9$$ and $$9R13$$ but $$1R13$$ is FALSE.  Therefore we're not transitive.  We are reflexive and symmetric, though!
 * (c) Let $$A$$ be the set of all positive integers, and define a relation $$R$$ on $$A$$ by $$mRn$$ if and only if $$3$$ divides $$m-n$$.  Is $$R$$ an equivalence relation?

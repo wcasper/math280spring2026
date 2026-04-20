@@ -33,7 +33,7 @@ Determine, with proof, intervals describing the following sets
 
 ## Problem 3
 * (a) Write down what it means for a relation $$R$$ on a set $$A$$ to be reflexive, symmetric, transitive, and an equivalence relation.
-* (b) Let $$A$$ be the set of all positive integers, and define a relation $$R$$ on $$A$$ by $$mRn$$ if and only if $$|m-n| < 10$$.  Is $$R$$ an equivalence relation?
+* (b) Let $$A$$ be the set of all positive integers, and define a relation $$R$$ on $$A$$ by $$mRn$$ if and only if $$\lvert m-n\rvert < 10$$.  Is $$R$$ an equivalence relation?
 * (c) Let $$A$$ be the set of all positive integers, and define a relation $$R$$ on $$A$$ by $$mRn$$ if and only if $$3$$ divides $$m-n$$.  Is $$R$$ an equivalence relation?
 
 ## Problem 4
