@@ -18,7 +18,7 @@ FALSE! Could be finite.
 * (b) The sets $$\mathbb Q$$ and $$\mathbb N$$ have the same cardinality.
 
 TRUE!  We proved it in class.
-* (c) If $$A$$ is any set, then $$\lvert A\rvert < \lvert \mathcal P(A)\rvert$$, where here $$P$$ Is the power set of $$A$$.
+* (c) If $$A$$ is any set, then $$\lvert A\rvert < \lvert \mathcal P(A)\rvert$$, where here $$\mathcal P(A)$$ Is the power set of $$A$$.
 
 TRUE!  Cantor proved this.
 * (d) The Cantor-Schroeder-Bernstein Theorem says that if $$\lvert A\rvert < \lvert B\rvert$$ and $$\lvert B\rvert < \lvert C\rvert$$, then $$\lvert A\rvert < \lvert C\rvert$$.

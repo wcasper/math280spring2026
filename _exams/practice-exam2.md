@@ -14,7 +14,7 @@ For each of the following, write TRUE if the statement is true and FALSE if the 
 
 * (a) A set $$A$$ is countable if there is a bijection from $$\mathbb N$$ to $$A$$.
 * (b) The sets $$\mathbb Q$$ and $$\mathbb N$$ have the same cardinality.
-* (c) If $$A$$ is any set, then $$\lvert A\rvert < \lvert \mathcal P(A)\rvert$$, where here $$P$$ Is the power set of $$A$$.
+* (c) If $$A$$ is any set, then $$\lvert A\rvert < \lvert \mathcal P(A)\rvert$$, where here $$\mathcal P(A)$$ Is the power set of $$A$$.
 * (d) The Cantor-Schroeder-Bernstein Theorem says that if $$\lvert A\rvert < \lvert B\rvert$$ and $$\lvert B\rvert < \lvert C\rvert$$, then $$\lvert A\rvert < \lvert C\rvert$$.
 * (e) The Well-Ordering Principle says that any nonempty collection of positive numbers has a minimal element.
 
