@@ -44,8 +44,10 @@ We claim that $$\bigcup_{k=1}^\infty U_k = (0,2)$$.
 To see this, first suppose that $$x\in \bigcup_{k=1}^\infty U_k$$.  Then by definition, there exists an integer $$k$$ such that $$x\in U_k$$.  It follows that $$x\in [1/k,(k+1)/k)$$, so that $$1/k\leq x < (k+1)/k$$.  Since $$0 < 1/k$$, this says $$0 < x$$.  Also since $$1/k < 1$$, we get $$(k+1)/k = 1 + 1/k < 2$$, so that $$x < 2$$.  It follows that $$x\in (0,2)$$.  This proves $$\bigcup_{k=1}^\infty U_k \subseteq (0,2)$$.
 
 Conversely, suppose $$x\in (0,2)$$.  We consider two cases:
-**Case 1:** ($$x \geq 1$$).  If $$x \geq 1$$, then $$x\in U_1$$, so that $$x\in \bigcup_{k=1}^\infty U_k$$.
-**Case 2:** ($$x < 1$$).  If $$x < 1$$, then since $$\mathbb N$$ is not bounded above, we can choose $$k\in \mathbb N$$ with $$k > 1/x$$.  It follows that $$\frac{1}{k} < x$$.  Moreover, $$x < 1 < 1 + 1/k = (k+1)/k$$.  Therefore $$x\in U_k$$, so that $$x\in\bigcup_{k=1}^\infty U_k$$.
+
+  **Case 1:** ($$x \geq 1$$).  If $$x \geq 1$$, then $$x\in U_1$$, so that $$x\in \bigcup_{k=1}^\infty U_k$$.
+
+  **Case 2:** ($$x < 1$$).  If $$x < 1$$, then since $$\mathbb N$$ is not bounded above, we can choose $$k\in \mathbb N$$ with $$k > 1/x$$.  It follows that $$\frac{1}{k} < x$$.  Moreover, $$x < 1 < 1 + 1/k = (k+1)/k$$.  Therefore $$x\in U_k$$, so that $$x\in\bigcup_{k=1}^\infty U_k$$.
 
 Combining the two inclusions, this proves $$\bigcup_{k=1}^\infty U_k = (0,2)$$.
 
@@ -132,14 +134,18 @@ is a bijection.
 **Proof:**
 
 To prove injectivity, suppose that $$a,c\in \mathbb N$$ with $$f(a) = f(c)$$.  We consider two cases.
+
   **Case 1:**  ($$f(a) > 0$$).  In this case, $$a$$ and $$c$$ must be even, since otherwise the output of $$f$$ would not be positive.  Therefore $$f(a) = a/2$$ and $$f(c) = c/2$$.  Since $$f(a) = f(c)$$, it follows that $$a/2=c/2$$ and therefore $$a=c$$.
+
   **Case 2:**  ($$f(a) \leq 0$$).  In this case, $$a$$ and $$c$$ must be odd, since otherwise the output of $$f$$ would be positive.  Therefore $$f(a) = (1-a)/2$$ and $$f(c) = (1-c)/2$$.  Since $$f(a) = f(c)$$, it follows that $$(1-a)/2=(1-c)/2$$.  Multiplying by $$2$$, we get $$1-a=1-c$$ and simplifying we find $$a=c$$.
 
 In either case, we have $$a=c$$ and this proves injectivity.
 
 To prove surjectivity, suppose instead that $$b\in \mathbb Z$$.  We consider two cases.
+
   **Case 1:**  $$b > 0$$.  In this case, take $$a = 2b\in\mathbb N$$.  Then $$a$$ is even, so $$f(a) = f(2b) = 2b/2 = b$$.
-  **Case 1:**  $$b \leq 0$$.  In this case, take $$a = (1-2b)\in\mathbb N$$.  Then $$a$$ is odd so $$f(a) = f(1-2b) = (1-(1-2b))/2 = b$$.
+
+  **Case 2:**  $$b \leq 0$$.  In this case, take $$a = (1-2b)\in\mathbb N$$.  Then $$a$$ is odd so $$f(a) = f(1-2b) = (1-(1-2b))/2 = b$$.
 
 In either case, there exists $$a\in \mathbb N$$ with $$f(a) = b$$.  This proves surjectivity.  Thus we have bijectivity.
 
@@ -158,8 +164,10 @@ The base case is $$k=1$$. In this case, $$\mathbb N_k = \{1\}$$, so the only sub
 As an inductive hypothesis, assume that there exists a positive integer $$m\geq 1$$ such that any subset of $$\mathbb N_m$$ is finite.
 Then we claim that any subset of $$\mathbb N_{m+1}$$ is also finite.  To see this, suppose that $$A\subseteq \mathbb N_{m+1}$$.
 We consider two cases.
+
   **Case 1:**  ($$m+1\notin A$$).  In this case $$A\subseteq \mathbb N_m$$, so $$A$$ is finite by our inductive hypothesis!
-  **Case 1:**  ($$m+1\in A$$).  In this case $$A-\{m+1\}\subseteq \mathbb N_m$$, so $$A-\{m+1\}$$ is finite by our inductive hypothesis!  Therefore it is congruent to some $$\mathbb N_j$$ for some $$j\in\mathbb N$$.  That means that there exists a bijection $$f: A-\{m+1\}\rightarrow\mathbb N_j$$.  Define a function $$g: A\rightarrow\mathbb N_{j+1}$$ by
+
+  **Case 2:**  ($$m+1\in A$$).  In this case $$A-\{m+1\}\subseteq \mathbb N_m$$, so $$A-\{m+1\}$$ is finite by our inductive hypothesis!  Therefore it is congruent to some $$\mathbb N_j$$ for some $$j\in\mathbb N$$.  That means that there exists a bijection $$f: A-\{m+1\}\rightarrow\mathbb N_j$$.  Define a function $$g: A\rightarrow\mathbb N_{j+1}$$ by
 
 $$g(x) = \left\lbrace\begin{array}{cc}
 f(x), & x\neq m+1\\
