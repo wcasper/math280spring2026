@@ -217,7 +217,7 @@ m\ \text{is a lower bound of}\ A\\
 * (c) Prove that $$m$$ is an infimum for $$A$$ if and only if $$-m$$ is a supremum of $$C$$.
 
 Suppose that $$m$$ is an infimum of $$A$$.  Then $$m$$ is a lower bound for $$A$$.  Therefore $$-m$$ is an upper bound of $$C$$.
-Moreover, if $$p$$ is another lower bound of $$A$$ then $$p\leq m$$.  If $$q$$ is an upper bound of $$C$$, then $$-q$$ is a lower bound of $$c$$ so -q\leq m$$.  Therefore $$-m \leq q$$.  It follows that $$-m$$ is a supremum of $$C$$.
+Moreover, if $$p$$ is another lower bound of $$A$$ then $$p\leq m$$.  If $$q$$ is an upper bound of $$C$$, then $$-q$$ is a lower bound of $$c$$ so $$-q\leq m$$.  Therefore $$-m \leq q$$.  It follows that $$-m$$ is a supremum of $$C$$.
 
 Conversely, suppose that $$-m$$ is a supremum of $$C$$.  Then $$-m$$ is an upper bound of $$C$$, so $$m$$ is a lower bound of $$A$$.  Moreover, if $$q$$ is another upper bound of $$C$$, then $$-m \leq q$$.  Now suppose that $$p$$ is a lower bound of $$A$$.  Then $$-p$$ is an upper bound of $$C$$ and therefore $$-m\leq -p$$.  It follow sthat $$p\leq m$$.  Therefore $$m$$ is an infimum of $$A$$.
 
