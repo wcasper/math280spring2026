@@ -52,7 +52,7 @@ Prove the following
 
 Suppose that $$A$$ and $$B$$ are nonempty subsets of $$\mathbb R$$ which are both bounded above.  Prove the following
 
-* (a) $$\sup(A)\leq \sup(B).$$
+* (a) if $$A\subseteq B$$ then $$\sup(A)\leq \sup(B).$$
 
 * (b) Let $$C=\{a+b: a\in A,\ b\in B\}$$.  Then $$C$$ is bounded above and $$\sup(C)\leq \sup(A) + \sup(B)$$.
 
