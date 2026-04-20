@@ -115,7 +115,7 @@ It is a subset of the Cartesian product $$A\times B$$.
 It is a relation $$R$$ from $$A$$ to $$B$$ satisfying two properties:
 
  - for all $$a\in A$$ there exists a $$b\in B$$ with $$aRb$$
- - if $$a,c\in A$$ and $$b\in B$$ satisfy $$aRb$$ and $$cRb$$, then $$a=c$$.
+ - if $$a\in A$$ and $$b,c\in B$$ satisfy $$aRc$$ and $$bRc$$, then $$b=c$$.
 * (c) Write down the definition of $$f$$ being injective, surjective, and bijective.
 
 A function $$f: A\rightarrow B$$ is called
