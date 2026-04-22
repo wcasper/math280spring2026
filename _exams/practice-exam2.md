@@ -73,7 +73,7 @@ Use the axioms of the real numbers to prove
 
 Let $$A\subseteq R$$ be nonempty sets of real numbers which is bounded below and set
 
-$$C=\{-a: a\in A,\ b\in B\}$$
+$$C=\{-a: a\in A\}$$
 
 * (a) Write down the Completeness Axiom.
 
