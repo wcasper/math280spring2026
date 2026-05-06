@@ -36,7 +36,7 @@ Prove that $$\mathbb Z$$ is a closed subset of $$\mathbb R$$.
 
 **Problem 5:**
 
-For each $$i\in\mathbb{N}$$, consider the open intervals $$U_i = (i-1/2,i+1/2)$$ and $$V_i = (0,1/i)$$.
+For each $$i\in\mathbb{N}$$, consider the open intervals $$U_i = (i-1/2,i+1/2)$$ and $$V_i = (0,(i-1)/i)$$.
 
 * (a) Explain why $$\{U_i: i\in \mathbb N\}$$ is an open cover of $$\mathbb N$$.  Prove that it has no finite subcover.
 * (b) Explain why $$\{U_i: i\in \mathbb N\}$$ is an open cover of $$\{1,2,3\}$$.  Prove that it has a finite subcover.
