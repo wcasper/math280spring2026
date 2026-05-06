@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Practice Exam 2
-permalink: /exams/practice-exam2
+title: Practice Final
+permalink: /exams/practice-final
 ---
 
 Solve each of the following problems.
@@ -12,10 +12,10 @@ Note: you may NOT use a theorem or result from class to prove something when it 
 ## Problem 1 (True or False)
 For each of the following, write TRUE if the statement is true and FALSE if the statement is false.  NO explanation is needed.
 
-* (a) A set $$A$$ is countable if there is a bijection from $$\mathbb N$$ to $$A$$.
-* (b) The sets $$\mathbb Q$$ and $$\mathbb N$$ have the same cardinality.
-* (c) If $$A$$ is any set, then $$\lvert A\rvert < \lvert \mathcal P(A)\rvert$$, where here $$\mathcal P(A)$$ Is the power set of $$A$$.
-* (d) The Cantor-Schroeder-Bernstein Theorem says that if $$\lvert A\rvert < \lvert B\rvert$$ and $$\lvert B\rvert < \lvert C\rvert$$, then $$\lvert A\rvert < \lvert C\rvert$$.
+* (a) If $$A\subseteq B$$ and $$A\neq B$$ then $$\lvert A\rvert < \lvert B\rvert$$
+* (b) $$\varnothing =  \{\varnothing\}$$
+* (c) $$\{\mathbb R\}$$ is an open cover of $$(-1,1)$$
+* (d) If $$A\subseteq \mathbb R$$, then $$A$$ is either open or closed
 * (e) The Well-Ordering Principle says that any nonempty collection of positive numbers has a minimal element.
 
 
