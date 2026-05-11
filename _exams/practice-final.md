@@ -59,7 +59,7 @@ Let $$A$$ be a set and $$R$$ be a relation on $$A$$.
 
 Use induction to prove that for any integer $$n\geq 0$$
 
-$$1^3 + 2^3 + \dots + n^3 = \left(\frac{n(n+1)}{2}\right)^3.$$
+$$1^3 + 2^3 + \dots + n^3 = \left(\frac{n(n+1)}{2}\right)^2.$$
 
 ## Problem 8
 
