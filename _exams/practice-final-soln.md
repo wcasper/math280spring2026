@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice Final
+title: Practice Final Solution
 permalink: /exams/practice-final-soln
 ---
 
